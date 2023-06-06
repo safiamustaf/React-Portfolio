@@ -4,17 +4,14 @@ export default function AboutMe() {
   return (
     <div>
       <h1>About Me</h1>
+      
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus.
+      My name is Safia Mustaf and I am a student at the University of Minnesotas I study healthcare and have majored in 
+      Health Science during my undergrad as well as public health I enjoy spending time with family and friends. 
+      Throughout my career I have worked a lot in healthcare and have spend numerous time in hospitals 
+      Coding is something I have recently begun doing and it is something that I would like to expand 
+      I am a very hardworking person and critical thinker I enjoy solving things and working to create solutions 
+      One useful skill I have is that I work very well with peers and have good teamwork ethics!
       </p>
     </div>
   );

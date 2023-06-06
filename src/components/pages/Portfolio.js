@@ -5,12 +5,12 @@ export default function Portfolio() {
     <div>
       <h1>Portfolio Page</h1>
       <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
+        Throughout my coding journey, I love to keep learning and growing.
+        I'm always excited to discover new technologies and expand my knowledge.
+        I have become really good at using different programming languages and tools like HTML, CSS, JavaScript, and React.
+        I've also gotten really good at solving problems and thinking critical. This helps me tackle tough challenges with confidence.
+        At the moment I'm looking for new opportunities to use my skills and work with talented people.
+        If you want to collaborate or have any cool projects feel free to get in touch with me.
       </p>
     </div>
   );
